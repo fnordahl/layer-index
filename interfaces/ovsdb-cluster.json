@@ -1,0 +1,7 @@
+{
+  "id": "ovsdb-cluster",
+  "name": "ovsdb-cluster",
+  "repo": "https://github.com/fnordahl/flux-capacitor.git@subdir",
+  "subdir": "src/ovsdb-cluster",
+  "summary": "test"
+}
